@@ -1,0 +1,546 @@
+{
+  "html": [
+    {
+      "label": "MC",
+      "id": "mc",
+      "name": "MC",
+      "value": "2",
+      "type": "number",
+      "class": "EventListeners form-control"
+    },
+    {
+      "label": "Hauteur du montant ",
+      "id": "hauteur_du_montant_",
+      "name": "Hauteur du montant ",
+      "value": "22",
+      "type": "number",
+      "class": "EventListeners form-control"
+    }
+  ],
+  "svg": {
+    "points": [
+      {
+        "id": "point-1755168014465",
+        "element": {},
+        "position": {
+          "x": 1.0000000000000002,
+          "y": 1.0000000000000002
+        },
+        "letter": "A",
+        "text": {}
+      },
+      {
+        "id": "point-1755168017845",
+        "element": {},
+        "position": {
+          "x": 1.0000000000000002,
+          "y": 3.0000000000000004
+        },
+        "letter": "B",
+        "text": {}
+      },
+      {
+        "id": "point-1755168021010",
+        "element": {},
+        "position": {
+          "x": 2.0000000000000004,
+          "y": 2.0000000000000004
+        },
+        "letter": "C",
+        "text": {}
+      },
+      {
+        "id": "point-1755168023835",
+        "element": {},
+        "position": {
+          "x": 2.0000000000000004,
+          "y": 3.0000000000000004
+        },
+        "letter": "D",
+        "text": {}
+      },
+      {
+        "id": "point-1755168025385",
+        "element": {},
+        "position": {
+          "x": 3.0000000000000004,
+          "y": 3.0000000000000004
+        },
+        "letter": "E",
+        "text": {}
+      },
+      {
+        "id": "point-1755168027246",
+        "element": {},
+        "position": {
+          "x": 4.000000000000001,
+          "y": 3.0000000000000004
+        },
+        "letter": "F",
+        "text": {}
+      },
+      {
+        "id": "point-1755168029742",
+        "element": {},
+        "position": {
+          "x": 4.000000000000001,
+          "y": 2.0000000000000004
+        },
+        "letter": "G",
+        "text": {}
+      },
+      {
+        "id": "point-1755168034586",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 1.0000000000000002
+        },
+        "letter": "H",
+        "text": {}
+      },
+      {
+        "id": "point-1755168039252",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 3.0000000000000004
+        },
+        "letter": "I",
+        "text": {}
+      },
+      {
+        "id": "point-1755168043098",
+        "element": {},
+        "position": {
+          "x": 3.0000000000000004,
+          "y": 4.000000000000001
+        },
+        "letter": "J",
+        "text": {}
+      },
+      {
+        "id": "point-1755170478880",
+        "element": {},
+        "position": {
+          "x": 6.000000000000001,
+          "y": 4.000000000000001
+        },
+        "letter": "K",
+        "text": {}
+      },
+      {
+        "id": "point-1755170485305",
+        "element": {},
+        "position": {
+          "x": 6.000000000000001,
+          "y": 6.000000000000001
+        },
+        "letter": "L",
+        "text": {}
+      },
+      {
+        "id": "point-1755170486946",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 5
+        },
+        "letter": "M",
+        "text": {}
+      },
+      {
+        "id": "point-1755170490551",
+        "element": {},
+        "position": {
+          "x": 7.000000000000001,
+          "y": 5
+        },
+        "letter": "N",
+        "text": {}
+      }
+    ],
+    "segments": [
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168034586",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 1.0000000000000002
+            },
+            "letter": "H",
+            "text": {}
+          },
+          {
+            "id": "point-1755168039252",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 3.0000000000000004
+            },
+            "letter": "I",
+            "text": {}
+          }
+        ],
+        "letter": "H-I",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168039252",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 3.0000000000000004
+            },
+            "letter": "I",
+            "text": {}
+          },
+          {
+            "id": "point-1755168043098",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 4.000000000000001
+            },
+            "letter": "J",
+            "text": {}
+          }
+        ],
+        "letter": "I-J",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168043098",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 4.000000000000001
+            },
+            "letter": "J",
+            "text": {}
+          },
+          {
+            "id": "point-1755168017845",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 3.0000000000000004
+            },
+            "letter": "B",
+            "text": {}
+          }
+        ],
+        "letter": "J-B",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168017845",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 3.0000000000000004
+            },
+            "letter": "B",
+            "text": {}
+          },
+          {
+            "id": "point-1755168014465",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 1.0000000000000002
+            },
+            "letter": "A",
+            "text": {}
+          }
+        ],
+        "letter": "B-A",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168014465",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 1.0000000000000002
+            },
+            "letter": "A",
+            "text": {}
+          },
+          {
+            "id": "point-1755168034586",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 1.0000000000000002
+            },
+            "letter": "H",
+            "text": {}
+          }
+        ],
+        "letter": "A-H",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168029742",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 2.0000000000000004
+            },
+            "letter": "G",
+            "text": {}
+          },
+          {
+            "id": "point-1755168027246",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 3.0000000000000004
+            },
+            "letter": "F",
+            "text": {}
+          }
+        ],
+        "letter": "G-F",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168025385",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "E",
+            "text": {}
+          },
+          {
+            "id": "point-1755168027246",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 3.0000000000000004
+            },
+            "letter": "F",
+            "text": {}
+          }
+        ],
+        "letter": "E-F",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168025385",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "E",
+            "text": {}
+          },
+          {
+            "id": "point-1755168023835",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "D",
+            "text": {}
+          }
+        ],
+        "letter": "E-D",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168023835",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "D",
+            "text": {}
+          },
+          {
+            "id": "point-1755168021010",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 2.0000000000000004
+            },
+            "letter": "C",
+            "text": {}
+          }
+        ],
+        "letter": "D-C",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168021010",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 2.0000000000000004
+            },
+            "letter": "C",
+            "text": {}
+          },
+          {
+            "id": "point-1755168029742",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 2.0000000000000004
+            },
+            "letter": "G",
+            "text": {}
+          }
+        ],
+        "letter": "C-G",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170478880",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 4.000000000000001
+            },
+            "letter": "K",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "K-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170478880",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 4.000000000000001
+            },
+            "letter": "K",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "K-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170490551",
+            "element": {},
+            "position": {
+              "x": 7.000000000000001,
+              "y": 5
+            },
+            "letter": "N",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "N-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          },
+          {
+            "id": "point-1755170486946",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 5
+            },
+            "letter": "M",
+            "text": {}
+          }
+        ],
+        "letter": "L-M",
+        "text": {}
+      }
+    ],
+    "curves": [],
+    "texts": []
+  }
+}

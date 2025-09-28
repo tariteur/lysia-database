@@ -1,0 +1,67 @@
+{
+  "html": [
+    {
+      "label": "",
+      "id": "",
+      "name": "",
+      "value": "50",
+      "type": "number",
+      "class": "EventListeners form-control"
+    }
+  ],
+  "svg": {
+    "points": [
+      {
+        "id": "point-1756559940023",
+        "element": {},
+        "position": {
+          "x": 3.0000000000000004,
+          "y": 3.0000000000000004
+        },
+        "letter": "A",
+        "text": {}
+      },
+      {
+        "id": "point-1756560229766",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 8.000000000000002
+        },
+        "letter": "B",
+        "text": {}
+      }
+    ],
+    "segments": [
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1756559940023",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "A",
+            "text": {}
+          },
+          {
+            "id": "point-1756560229766",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 8.000000000000002
+            },
+            "letter": "B",
+            "text": {}
+          }
+        ],
+        "letter": "A-B",
+        "text": {}
+      }
+    ],
+    "curves": [],
+    "texts": []
+  }
+}

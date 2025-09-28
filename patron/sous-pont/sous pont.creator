@@ -1,0 +1,567 @@
+{
+  "blocklyXml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"CMVzFbNWR#rhQC5!xr(j\">CX</variable><variable id=\"1}^gkEpIMd%CCcyxDsKd\">EX</variable><variable id=\"hIZ/5t.IaNdX*JO:6B/[\">Fx</variable><variable id=\"*Zy7cm|zRmA/ve+2YT%}\">HX</variable><variable id=\"9vq%0#]PE.BMFD48`D~u\">DY</variable><variable id=\"Jf2`R4m|Ytw{X.waQEKU\">By</variable><variable id=\"$S2cq(E[=+3EmuY*r`cR\">EY</variable><variable id=\"0;9x`TdP#X:rUfg_Z/^a\">JY</variable><variable id=\"Qr8{/,?*bL00a(S$dkJ|\">MY</variable><variable id=\"(pmJY.Vb^DsLB@Ug(WIK\">LY</variable><variable id=\"sDNN8CQQb:IHlT;G0qyo\">L-1</variable><variable id=\"35nE=.aYpv#i{}7NbR9*\">L+1</variable></variables><block type=\"variables_set\" id=\"OCW%bg~Cmle+2CneY=fJ\" x=\"137\" y=\"95\"><field name=\"VAR\" id=\"CMVzFbNWR#rhQC5!xr(j\">CX</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"`tgVER4;j5m2^d4cQA|p\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"BoXpc^``EL:Ki3B`Zi|O\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"+4.)C85!c~4Gu6psw|,)\"><field name=\"NUM\">1</field></block></value></block></value><next><block type=\"variables_set\" id=\"7#aqHsht)|]UH2As~_Xd\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"U3Fv=[xO[%[tnjbL+.+U\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"%Os}9Ozx;x_$9n70Z7Zf\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"gY.Ev31%]T[foS?H~[F]\"><field name=\"NUM\">5</field></block></value></block></value><next><block type=\"variables_set\" id=\"W_WVnhR~8xY4)Dr#gRT/\"><field name=\"VAR\" id=\"hIZ/5t.IaNdX*JO:6B/[\">Fx</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"/LiYJP+O*Q9Jp=1#FO*S\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"F[Ay}n}`@_g@y+GXfV`S\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"X%FCTjhXm`$n5V+~8ot{\"><field name=\"NUM\">9</field></block></value></block></value><next><block type=\"variables_set\" id=\"5$a7{j+cM*50qnv*I(Us\"><field name=\"VAR\" id=\"*Zy7cm|zRmA/ve+2YT%}\">HX</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"|M^)6S-%c-3]))yOfXKT\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"math_arithmetic\" id=\"_a5,e5GI[]m3X:i+/0V+\"><field name=\"OP\">MULTIPLY</field><value name=\"A\"><block type=\"input\" id=\"Bx0h8yW3bKwH$nPf$`k~\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"n]~Gn4b2k?0J7W{/r~[N\"><field name=\"NUM\">2</field></block></value></block></value><value name=\"B\"><block type=\"math_number\" id=\"uB7UY`UM/nF*4DA](jzw\"><field name=\"NUM\">9</field></block></value></block></value><next><block type=\"editPoint\" id=\"Z1K},PIEq2ByxzSroF`;\"><field name=\"Point\">point-1755168021010</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"7OKz3L*xFDbaO}jiv5]c\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"8j$/2y:Ev*%)Jc4/DG:=\"><field name=\"VAR\" id=\"CMVzFbNWR#rhQC5!xr(j\">CX</field></block></value></block></value><next><block type=\"editPoint\" id=\"WR,_CVbY3dP]w[F`)NUk\"><field name=\"Point\">point-1755168023835</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"vGU]Iq,ayniE@+u9f6~e\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"(=WEOY$+iQm-j.(xe+L6\"><field name=\"VAR\" id=\"CMVzFbNWR#rhQC5!xr(j\">CX</field></block></value></block></value><next><block type=\"editPoint\" id=\"X}zVa-w=3K8c9tFwz]*N\"><field name=\"Point\">point-1755168025385</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"`9l5BG3Mg}B!^W|HfuEg\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\":GN%XOA^Ou80jj/B*Lyr\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value></block></value><next><block type=\"editPoint\" id=\"IXsA|I9@V{iwxiA!Elra\"><field name=\"Point\">point-1755168043098</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"s/|tFoi?V*bxB3MGPEY*\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"R[r1YjU{GpJ;oGKd8%UZ\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value></block></value><next><block type=\"editPoint\" id=\"JUS@E(^B:a]N1*Nn2|Km\"><field name=\"Point\">point-1755168027246</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"30Brfuq3/VJiHEfyh3hC\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"l)NZ4R)j$W%kN+f.TyH}\"><field name=\"VAR\" id=\"hIZ/5t.IaNdX*JO:6B/[\">Fx</field></block></value></block></value><next><block type=\"editPoint\" id=\"r?9_Z~~]iFAI}et;Q`=y\"><field name=\"Point\">point-1755168029742</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"iqo_ewz_K5zdd3bn``EZ\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"B?5;U{-~1C}$cH?m`rEC\"><field name=\"VAR\" id=\"hIZ/5t.IaNdX*JO:6B/[\">Fx</field></block></value></block></value><next><block type=\"editPoint\" id=\"~MW+3o{AO0MeZE.--SmI\"><field name=\"Point\">point-1755168034586</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"t_Y7e@63h8Wgt[;dB:pR\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"#g4t8y]AkBgM75sD)b!%\"><field name=\"VAR\" id=\"*Zy7cm|zRmA/ve+2YT%}\">HX</field></block></value></block></value><next><block type=\"editPoint\" id=\"?Xl+mJ!+wgCMQ}MUV*x!\"><field name=\"Point\">point-1755168039252</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"6OXX8?[ff9]MAKZt#20N\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"xenp,GVki?:wO!$(Y3J`\"><field name=\"VAR\" id=\"*Zy7cm|zRmA/ve+2YT%}\">HX</field></block></value></block></value><next><block type=\"variables_set\" id=\"*MbwDlYIEe:Me7*E%7ev\"><field name=\"VAR\" id=\"9vq%0#]PE.BMFD48`D~u\">DY</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"B2!J6c]CrsLwS7o=hNWP\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"2T~7xk)04,A1CuPF4glG\"><field name=\"variable\">hauteur_du_montant_</field></block></value><value name=\"B\"><block type=\"math_arithmetic\" id=\"7=D,X5Vmf_40FUip;|4A\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"{FtX[E(jNrh7x|gtpx*+\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"23Ip%eyIVw/z!$L76_/U\"><field name=\"NUM\">2.25</field></block></value></block></value></block></value><next><block type=\"variables_set\" id=\"=s|`_Y1}%[#_7:WInA-4\"><field name=\"VAR\" id=\"Jf2`R4m|Ytw{X.waQEKU\">By</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"?p1fE:5mu19q;%)D#orf\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"]_!s6.2d{u@`[_GeVgC-\"><field name=\"variable\">hauteur_du_montant_</field></block></value><value name=\"B\"><block type=\"math_arithmetic\" id=\"EbIMU.l6dTQlr_HfYy?|\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"math_arithmetic\" id=\"+|OJ2zHX+@$8q;:+hOb^\"><field name=\"OP\">MULTIPLY</field><value name=\"A\"><block type=\"input\" id=\"^2E.~;40RcP9z.Ub__k;\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"W[E9K(wkf`EHOa7w+pHF\"><field name=\"NUM\">2</field></block></value></block></value><value name=\"B\"><block type=\"math_number\" id=\"Vst;sBO%wdJ0ry]Gj,nz\"><field name=\"NUM\">2.25</field></block></value></block></value></block></value><next><block type=\"variables_set\" id=\"0N^w=nlCLxD*{3~;[J(W\"><field name=\"VAR\" id=\"$S2cq(E[=+3EmuY*r`cR\">EY</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"YlB)}q(JgsDI)Dg?5Rj*\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"[b:w?b+6z^8=Q9}]bmRT\"><field name=\"variable\">hauteur_du_montant_</field></block></value><value name=\"B\"><block type=\"math_arithmetic\" id=\"?W0)kyFa+k@H1Z5#oWFN\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"Bz|cy%oxaINT7Dx{Mjq+\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"cazRr[x@o{}9UL[bQ1zO\"><field name=\"NUM\">3</field></block></value></block></value></block></value><next><block type=\"variables_set\" id=\"i*N5jHByA%?+)(;b6_-~\"><field name=\"VAR\" id=\"0;9x`TdP#X:rUfg_Z/^a\">JY</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\":Y!r$tM[dZSPB]wd6!!5\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"input\" id=\"ZA?~cYmh/K$xQi!hO4hQ\"><field name=\"variable\">hauteur_du_montant_</field></block></value><value name=\"B\"><block type=\"math_arithmetic\" id=\"ob?6of9OQiLaMS9c6eDo\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"math_arithmetic\" id=\"d~pv.j/Ka3rSl^h7);b+\"><field name=\"OP\">MULTIPLY</field><value name=\"A\"><block type=\"input\" id=\"4Q|5rD.elsnmP587`D6$\"><field name=\"variable\">mc</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"EEErZYNxzbamc*]Iewn_\"><field name=\"NUM\">2</field></block></value></block></value><value name=\"B\"><block type=\"math_number\" id=\"ApC~T{[Zb4D#G4EcLp+$\"><field name=\"NUM\">3</field></block></value></block></value></block></value><next><block type=\"editPoint\" id=\"`$@8jtm-$_A6$y7Cz`Vk\"><field name=\"Point\">point-1755168021010</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"ypQ],OCzQD3XqVFz_ndS\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"HyE^GOr%cQy8y{(;`vj;\"><field name=\"VAR\" id=\"CMVzFbNWR#rhQC5!xr(j\">CX</field></block></value></block></value><next><block type=\"editPoint\" id=\"soPhk|C8;lZZ_=w7-+0k\"><field name=\"Point\">point-1755168029742</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"qRU+OE@Fvj5=$@;#a!sy\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"Fb3tp$vgl{K)G9Om-=/I\"><field name=\"VAR\" id=\"CMVzFbNWR#rhQC5!xr(j\">CX</field></block></value></block></value><next><block type=\"editPoint\" id=\"].`({`_17[F!#!@6Ip%[\"><field name=\"Point\">point-1755168023835</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"v7eCH+%n6~@VhrTU[IA5\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"D|;{`xfx}vk:WpGtpohR\"><field name=\"VAR\" id=\"9vq%0#]PE.BMFD48`D~u\">DY</field></block></value></block></value><next><block type=\"editPoint\" id=\"tYX)C|}=LI}2X/|jKYH]\"><field name=\"Point\">point-1755168027246</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"`1]:Rxd5GJAgeG^-Fv@8\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"6Te*Kg!s=9Pe^(g2i!?;\"><field name=\"VAR\" id=\"9vq%0#]PE.BMFD48`D~u\">DY</field></block></value></block></value><next><block type=\"editPoint\" id=\"Wula/[!vn1]=js9fU63{\"><field name=\"Point\">point-1755168017845</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"rmIj_[[f[XmIX%*hn|hX\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"*HLJO#9}XTh+mN-6rJhk\"><field name=\"VAR\" id=\"Jf2`R4m|Ytw{X.waQEKU\">By</field></block></value></block></value><next><block type=\"editPoint\" id=\"SYSi98bR[Q*u?DHTs^}u\"><field name=\"Point\">point-1755168039252</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"([=z~TneUjTv#LVIJ!Y(\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"~jC}I5bh@agX0/BMgS?(\"><field name=\"VAR\" id=\"Jf2`R4m|Ytw{X.waQEKU\">By</field></block></value></block></value><next><block type=\"editPoint\" id=\"5BhP4~hV8^{4:+@KLQT~\"><field name=\"Point\">point-1755168025385</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"S}bw{ZceoS2I`+),/=id\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\".:}5Y$l$qfo%.c*?F#HN\"><field name=\"VAR\" id=\"$S2cq(E[=+3EmuY*r`cR\">EY</field></block></value></block></value><next><block type=\"editPoint\" id=\";N_HF!j~L.gdsmO3%gtb\"><field name=\"Point\">point-1755168043098</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"puI8=2AXn)z%DPsf}wBh\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"~i%*c`%@v*6qIx~Y^H{,\"><field name=\"VAR\" id=\"0;9x`TdP#X:rUfg_Z/^a\">JY</field></block></value></block></value><next><block type=\"variables_set\" id=\"2}D-j]N5-3ro}8DBPynu\"><field name=\"VAR\" id=\"Qr8{/,?*bL00a(S$dkJ|\">MY</field><value name=\"VALUE\"><block type=\"math_number\" id=\"q0B++L{@?_/vqTi0|Z+#\"><field name=\"NUM\">7</field></block></value><next><block type=\"variables_set\" id=\"~3${*b=Xf=c0FeB[~UjG\"><field name=\"VAR\" id=\"(pmJY.Vb^DsLB@Ug(WIK\">LY</field><value name=\"VALUE\"><block type=\"math_number\" id=\"`=U/VOudSfKT1aE1|PD}\"><field name=\"NUM\">8</field></block></value><next><block type=\"variables_set\" id=\"8fuKVl8(:8~4nF1vD7vr\"><field name=\"VAR\" id=\"sDNN8CQQb:IHlT;G0qyo\">L-1</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\")s3hIq8(?/!HJZG2.M}L\"><field name=\"OP\">MINUS</field><value name=\"A\"><block type=\"variables_get\" id=\"XX5.vyn])yRq5PWH+@PO\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"fO-c[tfD9vzQre0jq0R+\"><field name=\"NUM\">1</field></block></value></block></value><next><block type=\"variables_set\" id=\"WXzH-0OaDA]2$iQ}56Da\"><field name=\"VAR\" id=\"35nE=.aYpv#i{}7NbR9*\">L+1</field><value name=\"VALUE\"><block type=\"math_arithmetic\" id=\"{OzbTI{;O;%2d)~V1v=M\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"variables_get\" id=\"ZwL(/tX{1EbNyIObpr2F\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"j2xtyR;Bj$+*XbUghDTn\"><field name=\"NUM\">1</field></block></value></block></value><next><block type=\"editPoint\" id=\"bP2`}e!8^jEwnZHx]J-#\"><field name=\"Point\">point-1755170486946</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"PH+64shsA(8L:V;3^OeX\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"-u;$1?CLF1G|Rp%yF{*_\"><field name=\"VAR\" id=\"Qr8{/,?*bL00a(S$dkJ|\">MY</field></block></value></block></value><next><block type=\"editPoint\" id=\"`a4/tEbUgRJE|#RPqD?a\"><field name=\"Point\">point-1755170490551</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"Sa@ebaE[Dxs@Sr)cj;OV\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"kh0h+a[!Qe/tJ=_P2k/e\"><field name=\"VAR\" id=\"Qr8{/,?*bL00a(S$dkJ|\">MY</field></block></value></block></value><next><block type=\"editPoint\" id=\"`o$qqE9B+Es;r4;),(ab\"><field name=\"Point\">point-1755170485305</field><field name=\"attribute\">y</field><value name=\"newValue\"><block type=\"conversion\" id=\"[nAQ=J$E==RgV^7tP]FA\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"PkF%ixel(2,YwMPh{k/,\"><field name=\"VAR\" id=\"(pmJY.Vb^DsLB@Ug(WIK\">LY</field></block></value></block></value><next><block type=\"editPoint\" id=\"=i_9Dx/WH``P2QVXRJbL\"><field name=\"Point\">point-1755170485305</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"Hm]hXf+HAT!hH(?Z)],b\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"1x-as(u#//NDQ)xXoSTO\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value></block></value><next><block type=\"editPoint\" id=\"o7=|D5%?%DXH/|bUSrCT\"><field name=\"Point\">point-1755170478880</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"j]8q8PAF6=(4v2%K9D3j\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"KHEC1u,u[~nZbOMR%nSu\"><field name=\"VAR\" id=\"1}^gkEpIMd%CCcyxDsKd\">EX</field></block></value></block></value><next><block type=\"editPoint\" id=\"Z;VVN;mO=2+OnBI?[Shv\"><field name=\"Point\">point-1755170486946</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"Y5|MuH~3-:0*G8XME$Ng\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"1_[7B|rr!O(Y,l,R[8wQ\"><field name=\"VAR\" id=\"sDNN8CQQb:IHlT;G0qyo\">L-1</field></block></value></block></value><next><block type=\"editPoint\" id=\"b{k=c:gnDWL?GI|9+^(H\"><field name=\"Point\">point-1755170490551</field><field name=\"attribute\">x</field><value name=\"newValue\"><block type=\"conversion\" id=\"ew2CoP}C7q?gfJfP}b$~\"><field name=\"conversionType\">cmToPx</field><value name=\"value\"><block type=\"variables_get\" id=\"O|Cx?{eo+,*Q)ab14SM9\"><field name=\"VAR\" id=\"35nE=.aYpv#i{}7NbR9*\">L+1</field></block></value></block></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+  "customData": {
+    "name": "sous pont",
+    "usedLetters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N"
+    ],
+    "points": [
+      {
+        "id": "point-1755168014465",
+        "element": {},
+        "position": {
+          "x": 1.0000000000000002,
+          "y": 1.0000000000000002
+        },
+        "letter": "A",
+        "text": {}
+      },
+      {
+        "id": "point-1755168017845",
+        "element": {},
+        "position": {
+          "x": 1.0000000000000002,
+          "y": 3.0000000000000004
+        },
+        "letter": "B",
+        "text": {}
+      },
+      {
+        "id": "point-1755168021010",
+        "element": {},
+        "position": {
+          "x": 2.0000000000000004,
+          "y": 2.0000000000000004
+        },
+        "letter": "C",
+        "text": {}
+      },
+      {
+        "id": "point-1755168023835",
+        "element": {},
+        "position": {
+          "x": 2.0000000000000004,
+          "y": 3.0000000000000004
+        },
+        "letter": "D",
+        "text": {}
+      },
+      {
+        "id": "point-1755168025385",
+        "element": {},
+        "position": {
+          "x": 3.0000000000000004,
+          "y": 3.0000000000000004
+        },
+        "letter": "E",
+        "text": {}
+      },
+      {
+        "id": "point-1755168027246",
+        "element": {},
+        "position": {
+          "x": 4.000000000000001,
+          "y": 3.0000000000000004
+        },
+        "letter": "F",
+        "text": {}
+      },
+      {
+        "id": "point-1755168029742",
+        "element": {},
+        "position": {
+          "x": 4.000000000000001,
+          "y": 2.0000000000000004
+        },
+        "letter": "G",
+        "text": {}
+      },
+      {
+        "id": "point-1755168034586",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 1.0000000000000002
+        },
+        "letter": "H",
+        "text": {}
+      },
+      {
+        "id": "point-1755168039252",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 3.0000000000000004
+        },
+        "letter": "I",
+        "text": {}
+      },
+      {
+        "id": "point-1755168043098",
+        "element": {},
+        "position": {
+          "x": 3.0000000000000004,
+          "y": 4.000000000000001
+        },
+        "letter": "J",
+        "text": {}
+      },
+      {
+        "id": "point-1755170478880",
+        "element": {},
+        "position": {
+          "x": 6.000000000000001,
+          "y": 4.000000000000001
+        },
+        "letter": "K",
+        "text": {}
+      },
+      {
+        "id": "point-1755170485305",
+        "element": {},
+        "position": {
+          "x": 6.000000000000001,
+          "y": 6.000000000000001
+        },
+        "letter": "L",
+        "text": {}
+      },
+      {
+        "id": "point-1755170486946",
+        "element": {},
+        "position": {
+          "x": 5,
+          "y": 5
+        },
+        "letter": "M",
+        "text": {}
+      },
+      {
+        "id": "point-1755170490551",
+        "element": {},
+        "position": {
+          "x": 7.000000000000001,
+          "y": 5
+        },
+        "letter": "N",
+        "text": {}
+      }
+    ],
+    "segments": [
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168034586",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 1.0000000000000002
+            },
+            "letter": "H",
+            "text": {}
+          },
+          {
+            "id": "point-1755168039252",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 3.0000000000000004
+            },
+            "letter": "I",
+            "text": {}
+          }
+        ],
+        "letter": "H-I",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168039252",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 3.0000000000000004
+            },
+            "letter": "I",
+            "text": {}
+          },
+          {
+            "id": "point-1755168043098",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 4.000000000000001
+            },
+            "letter": "J",
+            "text": {}
+          }
+        ],
+        "letter": "I-J",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168043098",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 4.000000000000001
+            },
+            "letter": "J",
+            "text": {}
+          },
+          {
+            "id": "point-1755168017845",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 3.0000000000000004
+            },
+            "letter": "B",
+            "text": {}
+          }
+        ],
+        "letter": "J-B",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168017845",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 3.0000000000000004
+            },
+            "letter": "B",
+            "text": {}
+          },
+          {
+            "id": "point-1755168014465",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 1.0000000000000002
+            },
+            "letter": "A",
+            "text": {}
+          }
+        ],
+        "letter": "B-A",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168014465",
+            "element": {},
+            "position": {
+              "x": 1.0000000000000002,
+              "y": 1.0000000000000002
+            },
+            "letter": "A",
+            "text": {}
+          },
+          {
+            "id": "point-1755168034586",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 1.0000000000000002
+            },
+            "letter": "H",
+            "text": {}
+          }
+        ],
+        "letter": "A-H",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168029742",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 2.0000000000000004
+            },
+            "letter": "G",
+            "text": {}
+          },
+          {
+            "id": "point-1755168027246",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 3.0000000000000004
+            },
+            "letter": "F",
+            "text": {}
+          }
+        ],
+        "letter": "G-F",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168025385",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "E",
+            "text": {}
+          },
+          {
+            "id": "point-1755168027246",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 3.0000000000000004
+            },
+            "letter": "F",
+            "text": {}
+          }
+        ],
+        "letter": "E-F",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168025385",
+            "element": {},
+            "position": {
+              "x": 3.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "E",
+            "text": {}
+          },
+          {
+            "id": "point-1755168023835",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "D",
+            "text": {}
+          }
+        ],
+        "letter": "E-D",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168023835",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 3.0000000000000004
+            },
+            "letter": "D",
+            "text": {}
+          },
+          {
+            "id": "point-1755168021010",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 2.0000000000000004
+            },
+            "letter": "C",
+            "text": {}
+          }
+        ],
+        "letter": "D-C",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755168021010",
+            "element": {},
+            "position": {
+              "x": 2.0000000000000004,
+              "y": 2.0000000000000004
+            },
+            "letter": "C",
+            "text": {}
+          },
+          {
+            "id": "point-1755168029742",
+            "element": {},
+            "position": {
+              "x": 4.000000000000001,
+              "y": 2.0000000000000004
+            },
+            "letter": "G",
+            "text": {}
+          }
+        ],
+        "letter": "C-G",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170478880",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 4.000000000000001
+            },
+            "letter": "K",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "K-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170478880",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 4.000000000000001
+            },
+            "letter": "K",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "K-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170490551",
+            "element": {},
+            "position": {
+              "x": 7.000000000000001,
+              "y": 5
+            },
+            "letter": "N",
+            "text": {}
+          },
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          }
+        ],
+        "letter": "N-L",
+        "text": {}
+      },
+      {
+        "element": {},
+        "points": [
+          {
+            "id": "point-1755170485305",
+            "element": {},
+            "position": {
+              "x": 6.000000000000001,
+              "y": 6.000000000000001
+            },
+            "letter": "L",
+            "text": {}
+          },
+          {
+            "id": "point-1755170486946",
+            "element": {},
+            "position": {
+              "x": 5,
+              "y": 5
+            },
+            "letter": "M",
+            "text": {}
+          }
+        ],
+        "letter": "L-M",
+        "text": {}
+      }
+    ],
+    "curves": [],
+    "texts": [],
+    "inputData": [
+      {
+        "index": "variableName1",
+        "label": "MC",
+        "id": "mc",
+        "name": "MC",
+        "value": "2",
+        "type": "number",
+        "class": "EventListeners form-control"
+      },
+      {
+        "index": "variableName2",
+        "label": "Hauteur du montant ",
+        "id": "hauteur_du_montant_",
+        "name": "Hauteur du montant ",
+        "value": "22",
+        "type": "number",
+        "class": "EventListeners form-control"
+      }
+    ],
+    "variableCount": 3
+  }
+}
